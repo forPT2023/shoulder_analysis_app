@@ -1,0 +1,17 @@
+# Python関連のキャッシュ・環境
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# 大容量ファイル
+saved_results/*.mp4
+saved_results/*.avi
+saved_results/*.mov
+saved_results/*.png
+saved_results/*.csv
+
+# Jupyter Notebook関連
+.ipynb_checkpoints/
+
